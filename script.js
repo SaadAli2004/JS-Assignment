@@ -1,4 +1,4 @@
-let day = 1
+let day = "shit"
 switch(day){
     case 1:
         console.log(`It is Monday`)
@@ -22,7 +22,7 @@ switch(day){
         console.log(`It is Sunday`)
         break; 
     default:
-        console.log 
+        console.log(`That is not a day`)
 }
 
 
