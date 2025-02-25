@@ -1,29 +1,23 @@
-let day = "shit"
-switch(day){
-    case 1:
-        console.log(`It is Monday`)
-        break;
-    case 2:
-        console.log(`It is Tuesday`)
-        break; 
-    case 3:
-        console.log(`It is Wednesday`)
-        break;  
-    case 4:
-        console.log(`It is Thursday`)
-        break; 
-    case 5:
-        console.log(`It is Friday`)
-        break; 
-    case 6:
-        console.log(`It is Saturday`)
-        break; 
-    case 7:
-        console.log(`It is Sunday`)
-        break; 
-    default:
-        console.log(`That is not a day`)
+
+/* Script 1
+alert(`Welcome to our website!`) */
+
+/* Script 2
+let password = "123"
+let userInput = window.prompt('Enter the password');
+
+if (userInput === password) {
+    alert(`Welcome to our website!`);
 }
+else {
+    alert(`Error! Please enter a valid password`);
+}
+*/
+
+
+/* Script 3
+document.write('Welcome to our website!')
+*/
 
 
 
